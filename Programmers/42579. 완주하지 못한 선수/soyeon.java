@@ -1,6 +1,6 @@
 class Solution {
     public String solution(String[] participant, String[] completion) {
-        //동명이인이 있을 수 있으므로 set은 사용 불가
+        //동명이인이 있을 수 있으므로 set은 사용 불가 
     	String answer = "";
         HashMap<String, Integer> map=new HashMap<String, Integer>();
         for(int i=0;i<participant.length;i++) {
