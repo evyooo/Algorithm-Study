@@ -16,6 +16,7 @@
 * 과제 <br>
 백준 1문제 / 프로그래머스 2문제 (문제 풀이가 어려울 경우 개념만 정리)
 
+![123](https://user-images.githubusercontent.com/61494135/76207909-02a5b800-6242-11ea-83fa-6fd22bf75162.PNG)
 
 * * *
 ### 1주차 <br>
@@ -29,3 +30,38 @@
   * 삼성A형 기출문제: <br> 
     [괄호 추가하기](https://www.acmicpc.net/problem/16637) <br>
     [파이프옮기기1](https://www.acmicpc.net/problem/17070) <br>
+  
+    
+### 2주차 <br>
+* 프로그래머스
+  * 스택/큐에 대한 공부
+  * 코딩kit <br>
+    [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) <br>
+    [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) <br>
+    
+* 백준 
+  * 삼성A형 기출문제: <br> 
+    [캐슬 디펜스](https://www.acmicpc.net/problem/17135) <br>
+
+    
+### 3주차 <br>
+* 프로그래머스
+  * 힙에 대한 공부
+  * 코딩kit <br>
+    [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) <br>
+    [라면 공장](https://programmers.co.kr/learn/courses/30/lessons/42629) <br>
+    
+* 백준 
+  * 삼성A형 기출문제: <br> 
+    [색종이 붙이기](https://www.acmicpc.net/problem/17136) <br>
+ 
+ ### 4주차 <br>
+* 프로그래머스
+  * 정렬에 대한 공부
+  * 코딩kit <br>
+    [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) <br>
+    [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) <br>
+    
+* 백준 
+  * 삼성A형 기출문제: <br> 
+    [공](https://www.acmicpc.net/problem/17281) <br>
