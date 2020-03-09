@@ -1,3 +1,6 @@
+//아무리 고민해도 모르겠어서ㅜㅜ 구글링 해서 찾은 코드입니다
+//다른 분들은 어떻게 푸셨는지 궁금합니다..저는 아무리 생각해도 잘 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
