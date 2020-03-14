@@ -1,3 +1,4 @@
+//BOJ 2493과 같은데 이렇게 풀면 백준에서는 메모리초과 난다
 import java.util.*;
 class Solution {
     public int[] solution(int[] heights) {
