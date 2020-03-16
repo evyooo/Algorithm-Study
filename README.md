@@ -14,12 +14,13 @@
 (공적인 일이나 질병으로 인한 것 예외)
 
 * 과제 <br>
-백준 1문제 / 프로그래머스 2문제 (문제 풀이가 어려울 경우 개념만 정리)
+백준 1문제(문제 풀이가 어려울 경우 다른 풀이 참조하여 설명 자세히 달기) / 프로그래머스 2문제 (문제 풀이가 어려울 경우 개념만 정리)
+/선택문제 풀기(1~3문제 골라서 풀어오기 // 풀 수 있는 만큼만 해오면 됩니다! 다른 사람 풀이도 읽을 예정이니 문제는 숙지하고 오세요~)  
 
 ####   과제 풀이시 주석을 많이 달아주세요 ! :)
 
 * * *
-### 1주차 <br>
+### 1주차 3월 9일<br> 
 * 프로그래머스
   * 해시에 대한 공부
   * 코딩kit <br>
@@ -32,7 +33,7 @@
     [파이프옮기기1](https://www.acmicpc.net/problem/17070) <br>
   
     
-### 2주차 <br>
+### 2주차 3월 16일<br> 
 * 프로그래머스
   * 스택/큐에 대한 공부
   * 코딩kit <br>
@@ -42,9 +43,9 @@
 * 백준 
   * 삼성A형 기출문제: <br> 
     [캐슬 디펜스](https://www.acmicpc.net/problem/17135) <br>
-
     
-### 3주차 <br>
+    
+### 3주차 3월 23일<br> 
 * 프로그래머스
   * 힙에 대한 공부
   * 코딩kit <br>
@@ -54,8 +55,14 @@
 * 백준 
   * 삼성A형 기출문제: <br> 
     [색종이 붙이기](https://www.acmicpc.net/problem/17136) <br>
+    
+* 선택문제
+  [토마토](https://www.acmicpc.net/problem/7569) <br>
+  [빙산](https://www.acmicpc.net/problem/2573) <br>
+  [전개도](https://www.acmicpc.net/problem/2642) <br>
+    
  
- ### 4주차 <br>
+ ### 4주차 3월 30일<br> 
 * 프로그래머스
   * 정렬에 대한 공부
   * 코딩kit <br>
@@ -65,3 +72,8 @@
 * 백준 
   * 삼성A형 기출문제: <br> 
     [공](https://www.acmicpc.net/problem/17281) <br>
+    
+* 선택문제
+  [수 이어가기](https://www.acmicpc.net/problem/2635) <br>
+  [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
+  [로또](https://www.acmicpc.net/problem/6603) <br>
