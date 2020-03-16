@@ -20,7 +20,7 @@
 ####   과제 풀이시 주석을 많이 달아주세요 ! :)
 
 * * *
-### 1주차 3월 9일<br> 
+### 1주차 ##### 3월 9일<br> 
 * 프로그래머스
   * 해시에 대한 공부
   * 코딩kit <br>
@@ -33,7 +33,7 @@
     [파이프옮기기1](https://www.acmicpc.net/problem/17070) <br>
   
     
-### 2주차 3월 16일<br> 
+### 2주차 ##### 3월 16일<br> 
 * 프로그래머스
   * 스택/큐에 대한 공부
   * 코딩kit <br>
@@ -45,7 +45,7 @@
     [캐슬 디펜스](https://www.acmicpc.net/problem/17135) <br>
     
     
-### 3주차 3월 23일<br> 
+### 3주차 ##### 3월 23일<br> 
 * 프로그래머스
   * 힙에 대한 공부
   * 코딩kit <br>
@@ -56,7 +56,7 @@
   * 삼성A형 기출문제: <br> 
     [색종이 붙이기](https://www.acmicpc.net/problem/17136) <br>
     
-* 선택문제
+* 선택문제: <br>
   [토마토](https://www.acmicpc.net/problem/7569) <br>
   [빙산](https://www.acmicpc.net/problem/2573) <br>
   [전개도](https://www.acmicpc.net/problem/2642) <br>
@@ -73,7 +73,7 @@
   * 삼성A형 기출문제: <br> 
     [공](https://www.acmicpc.net/problem/17281) <br>
     
-* 선택문제
+* 선택문제: <br>
   [수 이어가기](https://www.acmicpc.net/problem/2635) <br>
   [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
   [로또](https://www.acmicpc.net/problem/6603) <br>
