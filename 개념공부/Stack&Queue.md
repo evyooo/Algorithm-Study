@@ -33,3 +33,7 @@ remove(): Queue의 front에 저장된 객체를 꺼낸다.
 poll(): Queue의 front에 저장된 객체를 꺼낸다.
 
 ## c.f. PriorityQueue: 우선순위가 높은것부터 꺼낸다 
+- 배열/연결리스트 기반 시간복잡도
+push: O(n), pop: O(1)
+- 힙 기반 시간복잡도
+push: O(logn), pop: O(logn)
