@@ -27,7 +27,7 @@ public class _02_7569 {
 		H = Integer.parseInt(st.nextToken());
 		
 		arr = new int[M][N][H];
-		int ripe =0; 
+		int ripe =0; // 익은 사과 개수 
 		blank =0; // 사과가 들어있지 않은 칸
 		// 주어진 상자 내부 상태 저장
 		for(int h=0; h<H; h++) {
@@ -58,7 +58,7 @@ public class _02_7569 {
 			else return -1;
 		}
 		changed =0;   // 다시 변화 개수 0으로 초기화
-		// 1의 좌우 위아래 앞뒤에서 -1이 있을 경우, 모두 1로 바꿔준다. 
+		// arr[m][n][h] = 1인 위치에 대해서 좌우, 위아래, 앞뒤에 0 이 있을 경우, 모두 1로 바꿔준다. 
 		for(int h=0; h<H; h++) {
 			for(int n=0; n<N; n++) {
 				for(int m=0; m<M; m++) {
