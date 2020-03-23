@@ -1,3 +1,4 @@
+//https://ye-eun-lee.postype.com/post/3626323 참고
 import java.util.*;
 public class Main {
 	static int mat[][]=new int[10][10];
