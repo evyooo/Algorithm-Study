@@ -12,7 +12,7 @@ public class Solution {
         
         int index = 0;
         for (int i = 0; i < k; i++) {
-            //딱 밀가루를 사용할 수 있는 날 전에는
+            //딱 밀가루를 사용할 수 있는 날에는
             if(index < dates.length && i == dates[index])
                 priorityQueue.add(supplies[index++]);
                 
