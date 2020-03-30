@@ -81,3 +81,21 @@
    [수 이어가기](https://www.acmicpc.net/problem/2635) <br>
    [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>
    [로또](https://www.acmicpc.net/problem/6603) <br>
+
+* * *
+## 4월 
+### 5주차 <br> 
+* 프로그래머스
+  * 완전탐색에 대한 공부
+  * 코딩kit <br>
+    [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) <br>
+    [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) <br>
+    
+* 백준 
+  * 삼성A형 기출문제: <br> 
+    [Brainf**k 인터프리티](https://www.acmicpc.net/problem/3954) <br>
+    
+* 선택문제 <br>
+
+   [치즈](https://www.acmicpc.net/problem/2636) <br>
+   [탈출](https://www.acmicpc.net/problem/3055) <br>
