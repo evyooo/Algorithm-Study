@@ -101,3 +101,19 @@
 
    [치즈](https://www.acmicpc.net/problem/2636) <br>
    [탈출](https://www.acmicpc.net/problem/3055) <br>
+
+### 6주차 <br> 
+* 프로그래머스
+  * 탐욕법에 대한 공부
+  * 코딩kit <br>
+    [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) <br>
+    [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) <br>
+    
+* 백준 
+  * 삼성A형 기출문제: <br> 
+    [배열돌리기 4](https://www.acmicpc.net/problem/17406) <br>
+    
+* 선택문제 <br>
+
+   [합분해](https://www.acmicpc.net/problem/2225) <br>
+   [유기농 배추](https://www.acmicpc.net/problem/1012) <br>
