@@ -14,8 +14,9 @@
 (공적인 일이나 질병으로 인한 것 예외)
 
 * 과제 <br>
-백준 1문제(문제 풀이가 어려울 경우 다른 풀이 참조하여 설명 자세히 달기) / 프로그래머스 2문제 (문제 풀이가 어려울 경우 개념만 정리)
+프로그래머스 2문제 (문제 풀이가 어려울 경우 개념만 정리)
 선택문제 풀기(1~3문제 골라서 풀어오기, 풀 수 있는 만큼만 해오면 됩니다! 다른 사람 풀이도 읽을 예정이니 문제는 숙지하고 오세요)
+당분간 삼성 기출 문제는 풀이하지 않습니다.
 
 ####   과제 풀이시 주석을 많이 달아주세요 ! :)
 
@@ -93,11 +94,7 @@
     [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) <br>
     [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) <br>
     
-* 백준 
-  * 삼성A형 기출문제: <br> 
-    [Brainf**k 인터프리티](https://www.acmicpc.net/problem/3954) <br>
-    
-* 선택문제 <br>
+* 백준 선택문제 <br>
 
    [치즈](https://www.acmicpc.net/problem/2636) <br>
    [탈출](https://www.acmicpc.net/problem/3055) <br>
@@ -109,11 +106,8 @@
     [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) <br>
     [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) <br>
     
-* 백준 
-  * 삼성A형 기출문제: <br> 
-    [배열돌리기 4](https://www.acmicpc.net/problem/17406) <br>
     
-* 선택문제 <br>
+* 백준 선택문제 <br>
 
    [합분해](https://www.acmicpc.net/problem/2225) <br>
    [유기농 배추](https://www.acmicpc.net/problem/1012) <br>
